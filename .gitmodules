@@ -1,3 +1,6 @@
 [submodule "可合成附魔金苹果"]
 	path = 可合成附魔金苹果
 	url = https://github.com/zongmr3-coder/craftable-enchanted-golden-apple.git
+[submodule "云端存储"]
+	path = 云端存储
+	url = https://github.com/zongmr3-coder/cloud-storage.git
